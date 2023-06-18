@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../2nd-course-HW/scripts"
+	},
+	{
+		"path": "../2nd-course-HW/webdev-dom-homework"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "scripts"
+  }
+}
